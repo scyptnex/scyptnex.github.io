@@ -1,21 +1,15 @@
 # Site settings
 title: Nic H
+tagline: Obligatory Website
 email: <unspecified>@email.com
 description: >
     This is my personal website.  It contains some information about my work, my hobbies, and whatever comes to mind.
 baseurl: ""
 url: "http://scyptnex.github.io"
 fixedNav: 'true' # true or false
-theme: green # purple green, blue, orange, purple, grey
-githubUsername: scyptnex
-#twitterUsername:
-#dribbbleUsername:
-#codepenUsername:
 
 # Build settings
-permalink: /:year/:month/:title
+permalink: pretty
 markdown: kramdown
 include: [_pages]
-exclude: [_site, .gitignore, theme.license]
-sass:
-  style: compressed
+exclude: [_site, .gitignore]
