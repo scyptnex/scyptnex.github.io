@@ -3,7 +3,7 @@ title: Nic H
 email: <unspecified>@email.com
 description: >
     This is my personal website.  It contains some information about my work, my hobbies, and whatever comes to mind.
-baseurl: "/nic_h"
+baseurl: ""
 url: "http://scyptnex.github.io"
 fixedNav: 'true' # true or false
 theme: green # purple green, blue, orange, purple, grey
