@@ -7,7 +7,7 @@ layout: page
 <div class="related">
   <h2>Contents</h2>
   <ul class="related-posts">
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts %}
     {% assign this_cat = page.title | downcase %}
     {% if post.categories contains this_cat %}
       <li>
