@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: page
+layout: cat
 ---
 
 My PHD thesis is in context-free language reachability.
