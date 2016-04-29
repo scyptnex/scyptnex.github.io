@@ -17,6 +17,7 @@ wget -q -O - https://github.com/scyptnex/bootstrap/raw/master/init.sh | bash
 ## About Me ##
 
 ### SSH
+
 ```
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCve5u/IfrrmPRclA4ijW5JG4+0
 LsixBMFwobkfCpkuDTsKfGWiIQLgM+bTsCuB4zCiTUcoUiLklkDh5/5mJBkSg1e2
@@ -26,7 +27,9 @@ w50G2ricGWG2EqCmBxNuodPOhLYivgf/ve+kqX8gS2x+FuSmkb3byJ6YkNJtHhT8
 HV0w7eo703b1P0fRVK5sFCQoX2Q8+OI3+jAFgncrqEv1FB/joeIr/0JP+LlP
 hidden@nowhere.com
 ```
+
 ### GPG
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
