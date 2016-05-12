@@ -12,7 +12,7 @@ Two agonising re-reads of my menu under the undoubtedly judgemental eye of the w
 Add a side of Karaage though because I dont have to explain myself to you.
 Truly, such god-given golden morsels, tender and juicy innards enrobed in a shatteringly crisp crust, kewpie mayo soothing the hint of mirin-miso-marinade in the flesh.
 And this before the real reason we're all here.
-Rich and warming broth, perfectly al-koshi-dente noodles, hosting that signature array of toppings, this time bamboo, sweet-corn, cha-siu and kombu.
+Rich and warming broth, perfectly al-katame noodles, hosting that signature array of toppings, this time bamboo, sweet-corn, cha-siu and kombu.
 Not to be outdone, company's generously-portioned lightly-charred _hunks_ of blow-torched pork-belly lending a pleasing smoky aroma to that stock, paired with a simpler selection of kombu and spring-onion.
 Definite success this evening.
 
