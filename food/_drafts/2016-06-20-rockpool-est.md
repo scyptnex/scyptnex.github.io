@@ -4,7 +4,7 @@ layout: post
 ---
 
 Enter the imposingly black-tiled and dimly shrouded _vault_ of the restaurant, detour past the modest bar for an abrasively bitter sans-rum cum-house-gin perfect storm, and await an eight course degustation (called 'tasting menu', because formal dining is out of style).
-Impressed, though I was, and my time, though I enjoyed, initially off, though I was put, by a poor combination of ever-so-slightly tough bread with a ricotta and pear spread, so delicate and mild as to be flavourless opn wholemeal bread, and emphasis and the **kombu**/shiso butter, overcompensating for flavour almost as much as the pear was lacking it.
+Impressed, though I was, and my time, though I enjoyed, initially off, though I was put, by a poor combination of ever-so-slightly tough bread with a ricotta and pear spread, so delicate and mild as to be flavourless on wholemeal bread, and emphasis-on-the-**kombu**/shiso butter, overcompensating for flavour almost as much as the pear was lacking it.
 
 Fortunately the _real_ courses recovered, the first of which a cucumber and scampi salad(?), the subtle scampi fragrance with cucumber crunch pairing well with our sweeter sake.
 Following this, a deconstructed sushi (aka donburi) of kingfish sashimi over mixed rice and ginger pieces served with soy and peach glaze, again with a sake, though this one far richer to match the stronger umami/salt of the soy glaze.
