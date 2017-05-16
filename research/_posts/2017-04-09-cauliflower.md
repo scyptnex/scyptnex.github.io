@@ -30,3 +30,5 @@ performance of application-specific tools on many benchmarks.
 ### Links ###
 
 * [21st International Conference on Logic for Programming, Artificial Intelligence and Reasoning](http://easychair.org/publications/paper/Cauliflower_a_Solver_Generator_for_Context-Free_Language_Reachability)
+
+[[https://github.com/username/repository/blob/master/research/_posts/safari.jpg|alt=LPAR-21 on safari]]
